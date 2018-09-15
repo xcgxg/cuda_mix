@@ -1,0 +1,8 @@
+#ifdef GLO1_GPSSWRCORRWRAP_EXPORTS
+#define GLO1_GPSSWR_API
+#else
+#define GLO1_GPSSWR_API
+#endif
+
+
+
